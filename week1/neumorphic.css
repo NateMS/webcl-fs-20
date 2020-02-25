@@ -183,6 +183,7 @@ div.footer>div {
     margin-right: 9%;
     width: 45%;
     box-sizing: border-box;
+    border-radius: 30px;
 }
 
 div.footer>div:last-child {
